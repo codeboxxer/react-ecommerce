@@ -63,4 +63,3 @@ $ yarn build
 * Firebase auth provider authentication
 * Account creation and edit
 
-
